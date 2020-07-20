@@ -1,5 +1,7 @@
-Alas! This is Fralonra. Fra-l-on-ra.
+Alas! This is Fralonra. Follow me: fra-l-on-ra.
 
-`fralonra` is (not) a neologism inspired by `turambar`.
+'`fralonra`', a neologism (or not?) inspired by '`turambar`'.
 
-Where `fral-` stands for *control, master*, and `onra` means *doom, fate*.
+Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom, fate'*.
+
+![Fralonra's github stats](https://github-readme-stats.vercel.app/api?username=fralonra)
