@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fralonra.fralonra)
+
 Alas! This is Fralonra. Follow me: fra-l-on-ra.
 
 '`fralonra`', a neologism (or not?) inspired by '`turambar`'.
