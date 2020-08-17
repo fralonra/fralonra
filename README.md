@@ -11,24 +11,24 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 507 Contributions in 2020
+> 🏆 507 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 99 Public Repositories 
+> 📜 99 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 Markdown                 13 hrs              █████████░░░░░░░░░░░░░░░░   36.31% 
 JSX                      7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81% 
 JavaScript               6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
