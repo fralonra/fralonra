@@ -9,11 +9,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 523 Contributions in the year 2020
+> 🏆 536 Contributions in the year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -29,11 +29,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs              █████████░░░░░░░░░░░░░░░░   35.83% 
-JSX                      7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52% 
-JavaScript               6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
-Go                       5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-JSON                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+JSX                      12 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   36.57% 
+JavaScript               8 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84% 
+Markdown                 5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
+Go                       5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+JSON                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 ```
 
