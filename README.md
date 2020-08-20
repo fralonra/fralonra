@@ -13,20 +13,20 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My Github Data** 
 
-> 🏆 538 Contributions in the year 2020
+> 🏆 538 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 100 Public repositories
+> 📜 100 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 JSX                      21 hrs 17 mins      ██████████████░░░░░░░░░░░   56.6% 
