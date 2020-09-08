@@ -9,11 +9,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 548 Contributions in the Year 2020
+> 🏆 549 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
