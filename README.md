@@ -13,15 +13,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My Github Data** 
 
-> 🏆 652 Contributions in the Year 2020
+> 🏆 653 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 105 Public Repositories 
+> 📜 106 Public Repositories 
  > 
-105 Private Repository 
+106 Private Repository 
  > 
 📊 **This Week I Spent My Time On** 
 
