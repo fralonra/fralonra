@@ -13,7 +13,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My Github Data** 
 
-> 🏆 12 Contributions in the Year 2021
+> 🏆 13 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
