@@ -13,7 +13,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My Github Data** 
 
-> 🏆 13 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -29,7 +29,8 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 47 mins             ████████████████████████░   97.98% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02%
 
 ```
 
