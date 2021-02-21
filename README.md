@@ -9,7 +9,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -29,9 +29,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 32 mins      █████████████████████░░░░   86.12% 
-JSON                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02%
+TypeScript               9 hrs 21 mins       █████████████████████░░░░   86.41% 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
 
 ```
 
