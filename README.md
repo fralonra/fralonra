@@ -5,6 +5,7 @@ Alas! This is Fralonra. Follow me: fra-l-on-ra.
 Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom, fate'*.
 
 ![Fralonra's github stats](https://github-readme-stats.vercel.app/api?username=fralonra)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffralonra%2Ffralonra.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffralonra%2Ffralonra?ref=badge_shield)
 
 ### My weekly stats
 
@@ -55,3 +56,6 @@ HTML                     3 repos             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffralonra%2Ffralonra.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffralonra%2Ffralonra?ref=badge_large)
