@@ -14,15 +14,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My GitHub Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
-> 📦 356.8 kB Used in GitHub's Storage 
+> 📦 356.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 111 Public Repositories 
  > 
-> 🔑 65 Private Repositories  
+> 🔑 66 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -41,8 +41,8 @@ JavaScript               1 hr 20 mins        █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               39 repos            ██████████░░░░░░░░░░░░░░░   40.21% 
-Go                       15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
+JavaScript               38 repos            █████████░░░░░░░░░░░░░░░░   39.18% 
+Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
 TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
 Vue                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
 Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
