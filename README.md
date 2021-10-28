@@ -16,7 +16,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 97 Contributions in the Year 2021
  > 
-> 📦 356.9 kB Used in GitHub's Storage 
+> 📦 357.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,11 +30,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.17% 
-TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-XML                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Groovy                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
+Kotlin                   8 hrs 38 mins       ███████████░░░░░░░░░░░░░░   46.03% 
+XML                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34% 
+Groovy                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
+JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Go                       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
 
 ```
 
@@ -55,7 +55,7 @@ Rust                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 ## License
