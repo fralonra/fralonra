@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -30,11 +30,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 38 mins       ███████████░░░░░░░░░░░░░░   46.03% 
-XML                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34% 
-Groovy                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Go                       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
+Kotlin                   16 hrs 13 mins      ████████████████░░░░░░░░░   63.71% 
+XML                      4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
+Groovy                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+JavaScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+Go                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 ```
 
@@ -55,7 +55,7 @@ Rust                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 ## License
