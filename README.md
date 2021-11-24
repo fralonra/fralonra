@@ -16,13 +16,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 103 Contributions in the Year 2021
  > 
-> 📦 364.7 kB Used in GitHub's Storage 
+> 📦 364.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 112 Public Repositories 
  > 
-> 🔑 68 Private Repositories  
+> 🔑 69 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
