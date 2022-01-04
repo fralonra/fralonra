@@ -10,7 +10,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -22,7 +24,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
  > 
 > 📜 112 Public Repositories 
  > 
-> 🔑 71 Private Repositories  
+> 🔑 72 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -41,9 +43,9 @@ JSON                     5 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               34 repos            ████████░░░░░░░░░░░░░░░░░   35.05% 
+JavaScript               33 repos            ████████░░░░░░░░░░░░░░░░░   34.02% 
+TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
 Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
 Vue                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
 Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19%
 
