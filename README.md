@@ -10,13 +10,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2016%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 372.0 kB Used in GitHub's Storage 
+> 📦 372.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
