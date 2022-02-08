@@ -10,9 +10,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C770%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,11 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     43 mins             ████████████░░░░░░░░░░░░░   49.63% 
-Markdown                 35 mins             ██████████░░░░░░░░░░░░░░░   40.01% 
-Properties               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Rust                     43 mins             █████████████░░░░░░░░░░░░   53.9% 
+Markdown                 35 mins             ███████████░░░░░░░░░░░░░░   43.71% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 ```
 
@@ -57,7 +57,7 @@ Rust                     8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 12:42:27 UTC
+ Last Updated on 08/02/2022 12:41:42 UTC
 <!--END_SECTION:waka-->
 
 ## License
