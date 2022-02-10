@@ -10,21 +10,19 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2038%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 18 Contributions in the Year 2022
  > 
-> 📦 372.4 kB Used in GitHub's Storage 
+> 📦 373.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 113 Public Repositories 
  > 
-> 🔑 74 Private Repositories  
+> 🔑 75 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,11 +30,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     43 mins             █████████████░░░░░░░░░░░░   53.9% 
-Markdown                 35 mins             ███████████░░░░░░░░░░░░░░   43.71% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+Rust                     8 hrs 53 mins       ██████████████████░░░░░░░   72.9% 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+TOML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
 
 ```
 
@@ -46,8 +44,8 @@ TOML                     0 secs              ░░░░░░░░░░░�
 JavaScript               31 repos            ████████░░░░░░░░░░░░░░░░░   31.63% 
 TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
 Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Vue                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
+Vue                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Rust                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
 
 ```
 
@@ -57,7 +55,7 @@ Rust                     8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 12:41:42 UTC
+ Last Updated on 10/02/2022 01:15:00 UTC
 <!--END_SECTION:waka-->
 
 ## License
