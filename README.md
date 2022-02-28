@@ -14,15 +14,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2022
+> 🏆 42 Contributions in the Year 2022
  > 
-> 📦 384.8 kB Used in GitHub's Storage 
+> 📦 373.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 113 Public Repositories 
+> 📜 114 Public Repositories 
  > 
-> 🔑 77 Private Repositories  
+> 🔑 76 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -30,11 +30,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     19 hrs 8 mins       █████████████████████░░░░   85.41% 
-XML                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Rust                     16 hrs 33 mins      ███████████████████░░░░░░   78.82% 
+XML                      2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
+TOML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 ```
 
@@ -55,7 +55,7 @@ Vue                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 01:12:50 UTC
+ Last Updated on 28/02/2022 01:19:18 UTC
 <!--END_SECTION:waka-->
 
 ## License
