@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C954%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C957%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -18,13 +18,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 81 Contributions in the Year 2022
  > 
-> 📦 374.2 kB Used in GitHub's Storage 
+> 📦 374.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
  > 
-> 🔑 76 Private Repositories  
+> 🔑 77 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,21 +32,21 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.06% 
-TypeScript               5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
-JSON                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-TOML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
+Rust                     9 hrs 40 mins       █████████████░░░░░░░░░░░░   53.32% 
+JSON                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+TypeScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               30 repos            ███████░░░░░░░░░░░░░░░░░░   30.61% 
+JavaScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   29.59% 
 Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
 TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Rust                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Rust                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Vue                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
 
 ```
@@ -57,7 +57,7 @@ Vue                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/04/2022 12:50:03 UTC
+ Last Updated on 02/04/2022 12:37:15 UTC
 <!--END_SECTION:waka-->
 
 ## License
