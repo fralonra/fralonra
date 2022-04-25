@@ -16,9 +16,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My GitHub Data** 
 
-> 🏆 86 Contributions in the Year 2022
+> 🏆 93 Contributions in the Year 2022
  > 
-> 📦 707.6 kB Used in GitHub's Storage 
+> 📦 702.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,9 +32,8 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 mins              █████████████████░░░░░░░░   68.0% 
-XML                      0 secs              ███████░░░░░░░░░░░░░░░░░░   28.01% 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+Kotlin                   2 mins              █████████████████░░░░░░░░   70.83% 
+XML                      0 secs              ███████░░░░░░░░░░░░░░░░░░   29.17%
 
 ```
 
@@ -55,7 +54,7 @@ Vue                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 12:41:17 UTC
+ Last Updated on 25/04/2022 12:48:00 UTC
 <!--END_SECTION:waka-->
 
 ## License
