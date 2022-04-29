@@ -10,19 +10,21 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C991%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 93 Contributions in the Year 2022
  > 
-> 📦 702.7 kB Used in GitHub's Storage 
+> 📦 702.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
  > 
-> 🔑 81 Private Repositories  
+> 🔑 82 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -40,7 +42,7 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 
 ```text
 JavaScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
 Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Go                       13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Vue                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
@@ -53,7 +55,7 @@ Vue                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 02:06:26 UTC
+ Last Updated on 29/04/2022 12:53:10 UTC
 <!--END_SECTION:waka-->
 
 ## License
