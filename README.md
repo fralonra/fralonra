@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,7 +24,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
  > 
 > 📜 118 Public Repositories 
  > 
-> 🔑 84 Private Repositories  
+> 🔑 85 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,10 +32,8 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 46 mins       ████████████████████████░   99.44% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+TypeScript               4 hrs 40 mins       ████████████████████████░   99.41% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
@@ -43,8 +41,8 @@ JSON                     0 secs              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+JavaScript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+TypeScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Go                       13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Vue                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.22%
@@ -57,7 +55,7 @@ Vue                      11 repos            ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 12:38:16 UTC
+ Last Updated on 13/06/2022 02:13:15 UTC
 <!--END_SECTION:waka-->
 
 ## License
