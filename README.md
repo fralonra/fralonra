@@ -10,13 +10,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 173 Contributions in the Year 2022
+> 🏆 176 Contributions in the Year 2022
  > 
 > 📦 712.7 kB Used in GitHub's Storage 
  > 
@@ -54,7 +54,7 @@ Vue                      11 repos            ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2022 02:07:41 UTC
+ Last Updated on 23/06/2022 12:49:41 UTC
 <!--END_SECTION:waka-->
 
 ## License
