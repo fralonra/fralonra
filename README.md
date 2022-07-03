@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -32,9 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     16 mins             █████████████████████░░░░   84.27% 
-Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
+Rust                     7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -55,7 +53,7 @@ Vue                      11 repos            ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 12:42:07 UTC
+ Last Updated on 03/07/2022 02:13:54 UTC
 <!--END_SECTION:waka-->
 
 ## License
