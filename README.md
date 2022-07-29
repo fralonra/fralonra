@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -18,13 +18,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 199 Contributions in the Year 2022
  > 
-> 📦 732.6 kB Used in GitHub's Storage 
+> 📦 732.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 120 Public Repositories 
  > 
-> 🔑 90 Private Repositories  
+> 🔑 91 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -45,9 +45,9 @@ Rust                     21 mins             █░░░░░░░░░░�
 ```text
 TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24% 
 JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
-Rust                     17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+Rust                     18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Go                       13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Vue                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Vue                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.1%
 
 ```
 
@@ -57,7 +57,7 @@ Vue                      11 repos            ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 02:27:38 UTC
+ Last Updated on 29/07/2022 12:51:09 UTC
 <!--END_SECTION:waka-->
 
 ## License
