@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C051%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -18,7 +18,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 199 Contributions in the Year 2022
  > 
-> 📦 732.7 kB Used in GitHub's Storage 
+> 📦 732.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,11 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 49 mins       ████████████░░░░░░░░░░░░░   50.26% 
-JavaScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Rust                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+TypeScript               2 hrs 38 mins       ████████████░░░░░░░░░░░░░   50.08% 
+JavaScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+Rust                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
 ```
 
@@ -57,7 +57,7 @@ Vue                      10 repos            ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2022 12:41:37 UTC
+ Last Updated on 31/07/2022 12:43:58 UTC
 <!--END_SECTION:waka-->
 
 ## License
