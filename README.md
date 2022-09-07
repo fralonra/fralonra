@@ -22,9 +22,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 121 Public Repositories 
+> 📜 120 Public Repositories 
  > 
-> 🔑 100 Private Repositories  
+> 🔑 101 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,8 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 mins              ███████████████████████░░   95.31% 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+No Activity Tracked This Week
 
 ```
 
@@ -54,7 +53,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 12:59:15 UTC
+ Last Updated on 07/09/2022 02:36:12 UTC
 <!--END_SECTION:waka-->
 
 ## License
