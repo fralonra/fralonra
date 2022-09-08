@@ -16,7 +16,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 **🐱 My GitHub Data** 
 
-> 📦 856.6 kB Used in GitHub's Storage 
+> 🏆 209 Contributions in the Year 2022
+ > 
+> 📦 856.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,7 +53,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 12:54:07 UTC
+ Last Updated on 08/09/2022 02:39:22 UTC
 <!--END_SECTION:waka-->
 
 ## License
