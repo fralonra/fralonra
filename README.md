@@ -18,13 +18,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 211 Contributions in the Year 2022
  > 
-> 📦 856.9 kB Used in GitHub's Storage 
+> 📦 857.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 120 Public Repositories 
  > 
-> 🔑 102 Private Repositories  
+> 🔑 103 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -41,8 +41,8 @@ TypeScript               5 mins              █░░░░░░░░░░�
 
 ```text
 TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.53% 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Rust                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
+JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+Rust                     20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
 Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
 Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
@@ -54,7 +54,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 02:30:48 UTC
+ Last Updated on 27/09/2022 12:59:21 UTC
 <!--END_SECTION:waka-->
 
 ## License
