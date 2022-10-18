@@ -24,7 +24,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
  > 
 > 📜 120 Public Repositories 
  > 
-> 🔑 103 Private Repositories  
+> 🔑 104 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -40,8 +40,8 @@ Rust                     15 mins             ███████████�
 
 ```text
 TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.53% 
-JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Rust                     20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+Rust                     21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
 Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
 Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
@@ -53,7 +53,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 02:42:47 UTC
+ Last Updated on 18/10/2022 13:01:13 UTC
 <!--END_SECTION:waka-->
 
 ## License
