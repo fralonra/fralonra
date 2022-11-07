@@ -32,10 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 1 min          █████████████░░░░░░░░░░░░   52.16% 
-Markdown                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.16% 
-Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Rust                     7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -56,7 +53,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 12:45:48 UTC
+ Last Updated on 07/11/2022 02:04:08 UTC
 <!--END_SECTION:waka-->
 
 ## License
