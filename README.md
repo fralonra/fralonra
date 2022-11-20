@@ -12,19 +12,19 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C065%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 272 Contributions in the Year 2022
+> 🏆 283 Contributions in the Year 2022
  > 
-> 📦 868.3 kB Used in GitHub's Storage 
+> 📦 880.8 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 122 Public Repositories 
  > 
-> 🔑 104 Private Repositories  
+> 🔑 107 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,28 +32,25 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     7 mins              █████████████████████████   100.0%
+TypeScript               33 mins             ████████████████████████░   96.9% 
+Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.8% 
-Rust                     21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.65% 
-JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.62% 
-Go                       11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+TypeScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Rust                     21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/fralonra/fralonra/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 12:56:55 UTC
+ Last Updated on 20/11/2022 12:37:50 UTC
 <!--END_SECTION:waka-->
 
 ## License
