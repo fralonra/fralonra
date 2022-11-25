@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C068%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C074%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -18,7 +18,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 🏆 285 Contributions in the Year 2022
  > 
-> 📦 880.8 kB Used in GitHub's Storage 
+> 📦 880.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,7 +44,7 @@ WiX Installer            1 hr                ███░░░░░░░░�
 
 ```text
 TypeScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Rust                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+Rust                     21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
 Go                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
 Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
@@ -53,7 +53,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 01:44:36 UTC
+ Last Updated on 25/11/2022 12:39:20 UTC
 <!--END_SECTION:waka-->
 
 ## License
