@@ -10,15 +10,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C074%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C072%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 285 Contributions in the Year 2022
+> 🏆 286 Contributions in the Year 2022
  > 
-> 📦 880.9 kB Used in GitHub's Storage 
+> 📦 881.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,11 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   31.47% 
-Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
-TypeScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Rust                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-WiX Installer            1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+YAML                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+WiX Installer            1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+TypeScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Rust                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
 
 ```
 
@@ -53,7 +53,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 12:39:20 UTC
+ Last Updated on 26/11/2022 01:40:20 UTC
 <!--END_SECTION:waka-->
 
 ## License
