@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C077%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C076%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -32,11 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.03% 
-Other                    1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
-WiX Installer            1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Makefile                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Rust                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
+YAML                     2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
+WiX Installer            1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Makefile                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.04%
 
 ```
 
@@ -53,7 +53,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 12:39:09 UTC
+ Last Updated on 30/11/2022 01:44:04 UTC
 <!--END_SECTION:waka-->
 
 ## License
