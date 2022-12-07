@@ -22,9 +22,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
  > 
 > 💼 Opted to Hire
  > 
-> 📜 124 Public Repositories 
+> 📜 123 Public Repositories 
  > 
-> 🔑 108 Private Repositories  
+> 🔑 109 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -32,11 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               46 mins             ███████████████████░░░░░░   76.72% 
-Other                    13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 ```
 
@@ -53,7 +49,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 12:37:56 UTC
+ Last Updated on 07/12/2022 01:40:19 UTC
 <!--END_SECTION:waka-->
 
 ## License
