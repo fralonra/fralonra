@@ -10,15 +10,15 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C078%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C077%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 293 Contributions in the Year 2022
  > 
-> 📦 881.5 kB Used in GitHub's Storage 
+> 📦 881.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,7 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 10 mins        ██████████████░░░░░░░░░░░   58.19% 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Kotlin                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Vue.js                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
 
 ```
 
@@ -49,7 +53,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2022 12:36:14 UTC
+ Last Updated on 08/12/2022 01:36:24 UTC
 <!--END_SECTION:waka-->
 
 ## License
