@@ -32,8 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 min               ████████████████████████░   98.44% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
+No Activity Tracked This Week
 
 ```
 
@@ -50,7 +49,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2022 12:32:27 UTC
+ Last Updated on 19/12/2022 01:23:50 UTC
 <!--END_SECTION:waka-->
 
 ## License
