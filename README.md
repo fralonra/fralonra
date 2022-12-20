@@ -12,7 +12,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,7 +49,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2022 01:26:42 UTC
+ Last Updated on 20/12/2022 12:35:18 UTC
 <!--END_SECTION:waka-->
 
 ## License
