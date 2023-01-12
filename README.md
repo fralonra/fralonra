@@ -12,7 +12,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C081%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,9 +32,9 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 53 mins        ████████████████████░░░░░   82.52% 
-XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.01%
+Rust                     2 hrs 5 mins        █████████████████████░░░░   83.92% 
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 ```
 
@@ -51,7 +51,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2023 12:37:02 UTC
+ Last Updated on 12/01/2023 01:37:23 UTC
 <!--END_SECTION:waka-->
 
 ## License
