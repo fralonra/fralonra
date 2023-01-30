@@ -32,8 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     2 hrs 32 mins       █████████████████████████   99.93% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Rust                     1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +49,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 12:32:44 UTC
+ Last Updated on 30/01/2023 01:26:04 UTC
 <!--END_SECTION:waka-->
 
 ## License
