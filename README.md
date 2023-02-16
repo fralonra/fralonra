@@ -10,21 +10,21 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C098%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2023
+> 🏆 12 Contributions in the Year 2023
  > 
-> 📦 882.3 kB Used in GitHub's Storage 
+> 📦 882.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 123 Public Repositories 
+> 📜 121 Public Repositories 
  > 
-> 🔑 110 Private Repositories  
+> 🔑 112 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -53,7 +53,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 01:40:56 UTC
+ Last Updated on 16/02/2023 12:37:41 UTC
 <!--END_SECTION:waka-->
 
 ## License
