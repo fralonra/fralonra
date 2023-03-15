@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C169%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C164%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -32,11 +32,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     24 hrs 33 mins      ███████████████░░░░░░░░░░   58.49 % 
-TypeScript               13 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Rust                     24 hrs 40 mins      █████████████░░░░░░░░░░░░   52.58 % 
+TypeScript               17 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.50 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+CSS                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,7 +52,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2023 12:45:35 UTC
+ Last Updated on 15/03/2023 01:26:45 UTC
 <!--END_SECTION:waka-->
 
 ## License
