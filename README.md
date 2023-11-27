@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C267%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C271%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 📦 943.4 kB Used in GitHub's Storage 
  > 
-> 🏆 445 Contributions in the Year 2023
+> 🏆 446 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -29,7 +29,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2667 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 Tuesday                  1671 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 Wednesday                2407 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 Thursday                 2728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
@@ -55,17 +55,17 @@ Ruby                     45 mins             █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               50 repos            ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Rust                     42 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-TypeScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Vue                      16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+JavaScript               50 repos            ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Rust                     42 repos            █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+TypeScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Vue                      16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 
 
 
- Last Updated on 27/11/2023 01:21:57 UTC
+ Last Updated on 27/11/2023 12:41:18 UTC
 <!--END_SECTION:waka-->
 
 ## License
