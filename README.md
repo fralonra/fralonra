@@ -10,6 +10,8 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C317%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,7 +32,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 Monday                   2670 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 Tuesday                  1674 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 Wednesday                2413 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 2728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Thursday                 2729 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Friday                   2177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Saturday                 2253 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Sunday                   3047 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
@@ -63,7 +65,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 01:22:31 UTC
+ Last Updated on 07/12/2023 12:40:51 UTC
 <!--END_SECTION:waka-->
 
 ## License
