@@ -1,0 +1,15 @@
+{
+  "name": "My Nft #1",
+  "description": "Generative art on Solana.",
+  "image": "https://127.0.0.1:3000/1,jpg",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://127.0.0.1:3000/1,jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
