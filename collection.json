@@ -1,5 +1,6 @@
 {
   "name": "My Nft #1",
+  "symbol": "MYNFT-001",
   "description": "Generative art on Solana.",
   "image": "https://raw.githubusercontent.com/fralonra/fralonra/test/cover.png",
   "external_url": "https://example.com",
