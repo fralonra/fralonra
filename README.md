@@ -45,8 +45,7 @@ Sunday                   3067 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               52 mins             ██████████████████████░░░   88.88 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +61,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2024 12:36:30 UTC
+ Last Updated on 08/02/2024 01:17:30 UTC
 <!--END_SECTION:waka-->
 
 ## License
