@@ -10,13 +10,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C438%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 945.5 kB Used in GitHub's Storage 
+> 📦 945.6 kB Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2024
  > 
@@ -45,11 +45,11 @@ Sunday                   3067 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 hrs 45 mins       ███████████████░░░░░░░░░░   61.63 % 
-TypeScript               2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Slint                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Rust                     5 hrs 32 mins       ███████████████░░░░░░░░░░   58.54 % 
+TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Slint                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,7 +65,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2024 12:36:32 UTC
+ Last Updated on 29/02/2024 01:15:53 UTC
 <!--END_SECTION:waka-->
 
 ## License
