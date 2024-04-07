@@ -10,7 +10,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C494%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C494%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,9 +43,8 @@ Sunday                   3068 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     11 hrs 19 mins      █████████████████████████   98.17 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Rust                     6 hrs 57 mins       █████████████████████████   99.73 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +60,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2024 12:36:34 UTC
+ Last Updated on 07/04/2024 01:23:47 UTC
 <!--END_SECTION:waka-->
 
 ## License
