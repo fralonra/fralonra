@@ -10,15 +10,13 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ### My weekly stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C608%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C607%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 946.0 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,10 +29,10 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 ```text
 Monday                   2700 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 Tuesday                  1683 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Wednesday                2450 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Thursday                 2761 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Friday                   2210 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Saturday                 2284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Saturday                 2285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 Sunday                   3068 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 ```
 
@@ -45,7 +43,8 @@ Sunday                   3068 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GDScript3                0 secs              █████████████████████████   100.00 % 
+GDScript3                15 mins             █████████████████████████   98.72 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +60,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2024 12:42:58 UTC
+ Last Updated on 19/06/2024 01:28:35 UTC
 <!--END_SECTION:waka-->
 
 ## License
