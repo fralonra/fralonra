@@ -12,13 +12,11 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C608%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 946.1 kB Used in GitHub's Storage 
- > 
-> 🏆 131 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -61,7 +59,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 01:47:04 UTC
+ Last Updated on 02/10/2024 12:50:36 UTC
 <!--END_SECTION:waka-->
 
 ## License
