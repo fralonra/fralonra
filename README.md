@@ -30,7 +30,7 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 ```text
 Monday                   2709 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Tuesday                  1685 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  1684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 Wednesday                2449 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Thursday                 2764 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Friday                   2221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
@@ -51,17 +51,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               49 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Rust                     44 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-TypeScript               33 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Vue                      17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript               49 repos            ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Rust                     43 repos            █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+TypeScript               33 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Vue                      17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 
 
 
- Last Updated on 16/10/2024 12:49:40 UTC
+ Last Updated on 17/10/2024 01:48:23 UTC
 <!--END_SECTION:waka-->
 
 ## License
