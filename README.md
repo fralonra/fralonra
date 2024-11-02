@@ -18,8 +18,6 @@ Where '`fral-`' stands for *'control, manage, master'*, and '`onra`' for *'doom,
 
 > 📦 946.1 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 145 Public Repositories 
@@ -61,7 +59,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2024 12:49:09 UTC
+ Last Updated on 02/11/2024 01:46:20 UTC
 <!--END_SECTION:waka-->
 
 ## License
